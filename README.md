@@ -1,0 +1,2 @@
+# react_conditional_rendering_with_ternary_operator
+Created with CodeSandbox
